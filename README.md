@@ -14,10 +14,17 @@ The project uses a combination of data science techniques, including exploratory
 
 ## Contents
 
-- **notebooks/**: Jupyter notebooks containing all analysis and code.
-  - **Data Collection and Wrangling.ipynb**: Collects and cleans data from multiple sources.
-  - **EDA and Visualization.ipynb**: Contains exploratory data analysis using Python and SQL queries.
-  - **Machine Learning Model.ipynb**: Builds and evaluates predictive models to classify landing success.
+- **Notebooks/**: Jupyter notebooks containing all analysis and code.
+  - **labs-jupyter-spacex-Data wrangling.ipynb**: Collects and cleans data from multiple sources.
+  - **jupyter-labs-webscraping.ipynb**: Code to scrap tables from wikipedia.
+  - **jupyter-labs-spacex-data-collection-api.ipynb**: Code using the API from SpaceX to load data.
+  - **edadatavizualization.ipynb**: Contains exploratory data analysis using Python.
+  - **jupyter-labs-eda-sql.ipynb**: Contains exploratory data analysis using SQL queries.
+  - **SpaceX_Machine Learning Prediction.ipynb**: Builds and evaluates predictive models to classify landing success.
+  - **lab_jupyter_launch_site_location.ipynb**: Contain code to create Maps using Follium.
+  - **spacex_dash_app.py**: Builds and run a dashboard using Ploty.
+  - **spacex_launch_dash.csv**: Data used to run the dashboard using Ploty.
+  - **Predicting Falcon 9 First Stage Landing Success.pptx**: Final presentation for the project.
 - **data/**: Contains datasets used for analysis.
 - **images/**: Visuals and charts generated during the analysis.
 - **README.md**: Project documentation and overview.
