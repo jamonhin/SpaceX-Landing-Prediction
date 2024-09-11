@@ -27,6 +27,7 @@ The project uses a combination of data science techniques, including exploratory
   - **Predicting Falcon 9 First Stage Landing Success.pptx**: Final presentation for the project.
 - **data/**: Contains datasets used for analysis.
 - **images/**: Visuals and charts generated during the analysis.
+- **presentation/**: Containg the presentation in pdf and powerpoint formats.
 - **README.md**: Project documentation and overview.
 
 ## Setup Instructions
